@@ -1,4 +1,4 @@
-Olá, eu sou [Seu Nome]! 👋
+Olá, eu sou Eduardo Alves Nascimento! 👋
 
 Sou um desenvolvedor iniciante apaixonado por tecnologia e resolução de problemas. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software.
 
