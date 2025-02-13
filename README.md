@@ -1,5 +1,6 @@
 Olá, eu sou Eduardo Alves Nascimento! 👋
 ##
+Matriculado em Análise e Desenvolvimentos de Sistemas no uniCEUB
 
 Sou um desenvolvedor iniciante apaixonado por tecnologia e resolução de problemas. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento de software.
 
