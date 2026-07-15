@@ -14,7 +14,7 @@ Ferramentas: Git, Google Cloud, Visual Studio
 
 🌟 Projetos em Destaque
 
-Sistema de Gerenciamento de Tarefas
+https://gerador-cv-front.vercel.app
 
 📧 Contato
 
