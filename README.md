@@ -14,7 +14,7 @@ Ferramentas: Git, Google Cloud, Visual Studio
 
 🌟 Projetos em Destaque
 
-https://gerador-cv-front.vercel.app
+https://cvbyjob.app/
 
 📧 Contato
 
